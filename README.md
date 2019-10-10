@@ -29,9 +29,5 @@ questions: donde se valida que el producto agregado al carro sea igual al buscad
 
 userInterface: este contiene todos los elementos de la página para ejecutar completamente el escenario
 
-utils: contiene variables reutilizables para la ejecución de la prueba
-
-exceptions: donde se controlan las excepciones en el caso de que el producto no se encuentre
-
 Para ejecutar el caso de prueba se abre la consola de commandos, este debe ejecutarse en la ruta del proyecto
 con la línea de comandos gradle clean test 
